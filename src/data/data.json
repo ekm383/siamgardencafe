@@ -1,0 +1,15 @@
+[
+  {
+    "restaurant-name": "siam garden cafe",
+    "intro": "Siam Garden Cafe has been serving the best authentic Thai cuisine in Hawaii for more than 10 years! Come try one of our famous curries or house-made noodle dishes! Authentic Thai cuisine at it's best!",
+    "copyright": "Copyright 2020 siam garden",
+    "logo": "../images/icon.png",
+    "hours": ["Mon - Sat 10:00am - 7:00pm", "Sun 5:00pm - 9:00pm"],
+    "phone": "(808) 523-9338",
+    "street": "1130 N Nimitz Hwy",
+    "city": "Honolulu, HI 96817",
+    "facebook": "https://www.facebook.com/Siam-Garden-Cafe-Hawaii-125780307466775/",
+    "instagram": "https://www.yelp.com/biz/siam-garden-cafe-honolulu-2",
+    "menu": "https://www.grindztogo.com/single.php/order/restaurant/siam-garden-cafe/46?takeout=1"
+  }
+]
