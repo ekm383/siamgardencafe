@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sushiya`,
-    description: `We serve the best Sushi and Poke in Honolulu. Available for takeout, dine-in, or delivery. Sushiya is conveniently located in the heart of Kaimuki with plenty of free parking.`,
-    author: `@sushiya`,
+    title: `Siam Garden`,
+    description: `Siam Garden Cafe has been serving the best authentic Thai cuisine in Hawaii for more than 10 years! Come try one of our famous curries or house-made noodle dishes! Authentic Thai cuisine at it's best!`,
+    author: `@siamgarden`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
